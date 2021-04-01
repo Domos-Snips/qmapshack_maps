@@ -1,0 +1,11 @@
+<TMS>
+<Layer idx="0">
+<MinZoomLevel>1</MinZoomLevel>
+<MaxZoomLevel>19</MaxZoomLevel>
+<Title>Hillshading</Title>
+<ServerUrl>https://b.tiles.wmflabs.org/hillshading/%1/%2/%3.png</ServerUrl>
+</Layer>
+<Copyright>Map data: (c) OpenStreetMap contributors, ODbL | Rendering: (c) Hillshading, CC-BY-SA</Copyright>
+</TMS>
+
+
